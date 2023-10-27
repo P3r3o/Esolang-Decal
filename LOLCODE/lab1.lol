@@ -2,7 +2,7 @@ HAI 1.3
 
 OBTW
 Implement the following functions according to their specification. 
-This lab is designed to give you hands one experience with LOLCODE.
+This lab is designed to give you hands-on experience with LOLCODE.
 Once you've completed all the functions show us your code and output for checkoff.
 You may find the offical LOLCODE documentation helpful:
 https://github.com/justinmeza/lolcode-spec/blob/master/v1.3/lolcode-spec-v1.3.md
